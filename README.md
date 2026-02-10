@@ -1,4 +1,5 @@
-📊 Hotel Management Booking Dashboard (Excel)
+**📊 Hotel Management Booking Dashboard (Excel)**
+---------------------------------------------------------------------
 
 **🔍 Project Overview**
 
